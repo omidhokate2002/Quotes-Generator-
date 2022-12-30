@@ -49,12 +49,12 @@ body {
 
 .quote {
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
 }
 
 .author {
-  padding-left: 100px;
+  /* padding-left: 100px; */
   margin: 10px;
   text-align: right;
   font-size: 20px;
